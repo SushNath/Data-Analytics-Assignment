@@ -1,3 +1,3 @@
 # Data-Analytics-Assignment
-Uploading Data Analytics Assignments
+A repository of Data Analytics Assignments
 1. Introduction to data
